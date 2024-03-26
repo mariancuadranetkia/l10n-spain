@@ -58,7 +58,7 @@ msgstr ""
 #. module: l10n_es_aeat_mod180
 #: model:ir.actions.act_window,name:l10n_es_aeat_mod180.action_l10n_es_aeat_mod180_report
 msgid "AEAT model 180"
-msgstr ""
+msgstr "Modelo AEAT 180"
 
 #. module: l10n_es_aeat_mod180
 #: model:ir.model,name:l10n_es_aeat_mod180.model_l10n_es_aeat_tax_line
@@ -203,7 +203,7 @@ msgstr "Cuenta contrapartida"
 #. module: l10n_es_aeat_mod180
 #: model_terms:ir.actions.act_window,help:l10n_es_aeat_mod180.action_l10n_es_aeat_mod180_report
 msgid "Create and query AEAT Model 180 reports."
-msgstr ""
+msgstr "Crea y consulta las declaraciones del modelo 180 de la AEAT."
 
 #. module: l10n_es_aeat_mod180
 #: model:ir.model.fields,field_description:l10n_es_aeat_mod180.field_informacion_catastral__create_uid
@@ -535,8 +535,8 @@ msgstr "Nº modelo"
 
 #. module: l10n_es_aeat_mod180
 #: model:ir.ui.menu,name:l10n_es_aeat_mod180.menu_aeat_mod180_report
-msgid "Modelo 180"
-msgstr ""
+msgid "AEAT 180 Model"
+msgstr "Modelo 180"
 
 #. module: l10n_es_aeat_mod180
 #: model:ir.model.fields,field_description:l10n_es_aeat_mod180.field_informacion_catastral__municipio
@@ -779,7 +779,7 @@ msgid "State"
 msgstr "Estado"
 
 #. module: l10n_es_aeat_mod180
-#: model:ir.model.fields,field_description:l10n_es_aeat_mod180.field_l10n_es_aeat_mod180_report__type
+#: model:ir.model.fields,field_description:l10n_es_aeat_mod180.field_l10n_es_aeat_mod180_report__statement_type
 msgid "Statement Type"
 msgstr "Tipo de declaración"
 
